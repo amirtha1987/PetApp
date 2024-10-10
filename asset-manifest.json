@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PetApp/static/css/main.d9c5113f.css",
+    "main.js": "/PetApp/static/js/main.d01a82e1.js",
+    "index.html": "/PetApp/index.html",
+    "main.d9c5113f.css.map": "/PetApp/static/css/main.d9c5113f.css.map",
+    "main.d01a82e1.js.map": "/PetApp/static/js/main.d01a82e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9c5113f.css",
+    "static/js/main.d01a82e1.js"
+  ]
+}
